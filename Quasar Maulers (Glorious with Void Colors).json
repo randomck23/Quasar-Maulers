@@ -1,0 +1,141 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Hit Replace",
+          "replace_ids": [
+            13160401062
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20punch.mp3"
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            13160489311
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\rando\\Downloads\\void fists inspect.mp3"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Cuff Replace",
+          "replace_ids": [
+            116084934350794
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20blackhole.obj"
+        },
+        {
+          "name": "Gold Band Replace",
+          "replace_ids": [
+            128920822768315
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20outline%20(colored).obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            90649799071023,
+            86806391690712
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            112839297231399,
+            72268337520152
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/blob/main/void%20fists%20thumbnail.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            12557500357
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20idle.rbxm"
+        },
+        {
+          "name": "Punch2 Replace",
+          "replace_ids": [
+            12557516966
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20punch2.rbxm"
+        },
+        {
+          "name": "Punch1 Replace",
+          "replace_ids": [
+            12557515008
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20punch1.rbxm"
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            12557511090
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20inspect.rbxm"
+        },
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            12644426893
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20sprint.rbxm"
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            12557487419
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Maulers/raw/refs/heads/main/void%20fists%20equip.rbxm"
+        }
+      ]
+    }
+  ]
+}
